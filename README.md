@@ -1,4 +1,4 @@
-<h1>RadarDev</h1>
+<h1>DevRadar</h1>
 <span>Uma aplicação que facilita a busca de desenvolvedores em sua região</span>
 
 
