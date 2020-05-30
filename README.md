@@ -35,6 +35,7 @@ yarn start # Inicializa o expo
 <h3>Ferramentas Utilizadas:</h3>
 <ul>
   <li>JavaScript</li>
+  <li>Node</li>
   <li>React</li>
   <li>React Native</li>
   <li>Expo</li>
