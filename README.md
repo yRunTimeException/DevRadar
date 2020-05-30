@@ -1,8 +1,8 @@
 <h1>DevRadar</h1>
-<span>Uma aplicação que facilita a busca de desenvolvedores em sua região</span>
+<span>An application that facilitates the search for developers in your region</span>
 
 
-<h3>Iniciando a aplicação:</h3>
+<h3>Starting the application:</h3>
 <h6>Backend</h6>
 
 ```
@@ -21,21 +21,22 @@ yarn start # Inicializa o React
 yarn start # Inicializa o expo
 ```
 <h6>Main Frontend</h6>
-(https://user-images.githubusercontent.com/54373473/82503834-61a06c80-9ad0-11ea-9521-373a7fe39323.jpg)
+<img src="/img/Web.png"/>
 
 </br>
 
 <h6>Mobile Frontend</h6>
 <p aling="center">
-(https://user-images.githubusercontent.com/54373473/82503845-6533f380-9ad0-11ea-858a-21b9c6910ff8.jpg)</br>
-(https://user-images.githubusercontent.com/54373473/82503850-66fdb700-9ad0-11ea-9121-8dac2ccec76b.jpg)
-
-
+<img src="/img/Phone1.png" alt="Phone 1"/>
+<img src="/img/Phone2.png" alt="Phone 2"/>
 
 </p>
 
 <h3>Ferramentas Utilizadas:</h3>
 <ul>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>React Native</li>
   <li>Expo</li>
   <li>Insomnia</li>
   <li>MongoDB</li>
