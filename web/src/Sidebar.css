@@ -52,7 +52,7 @@ aside form button[type=submit]{
   width: 100%;
   border: 0;
   margin-top: 30px;
-  background: #7d40e7;
+  background: #e02041;
   border-radius: 2px;
   padding: 15px 20px;
   font-size: 16px;
@@ -62,5 +62,5 @@ aside form button[type=submit]{
   transition: background 0.2s;
 }
 aside form button[type=submit]:hover{
-  background: #6931ca;
+  background: #e02041;
 }
