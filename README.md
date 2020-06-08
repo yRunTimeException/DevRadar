@@ -54,6 +54,10 @@ yarn start # Inicializa o expo
   <li>Yarn</li>
 </ul>
 
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 ## Contribua para o projeto 😉
 
 1. Faça um **fork** do projeto.
