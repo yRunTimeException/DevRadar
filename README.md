@@ -3,11 +3,22 @@
 </h1>
 
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tonybsilva-dev/DevRadar?color=%2304D361">
+  <a href="https://github.com/Tonybsilva-dev/DevRadar/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tonybsilva-dev/DevRadar">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tonybsilva-dev/DevRadar">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a href="https://github.com/tonybsilva-dev/DevRadar/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/tonybsilva-dev/DevRadar?style=social">
+  </a>
+  	
   <a href="https://twitter.com/tonybsilvaaa">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
   </a>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
 </p>
+
 <h1>DevRadar</h1>
 <span>An application that facilitates the search for developers in your region</span>
 
